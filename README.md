@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Nick
-🎯 "I want to build something flawless."
+🎯 "I want to build something (almost) flawless."
 
 **Computer Science** @ **SFU** | **HKU** ('26 Fall)
 
