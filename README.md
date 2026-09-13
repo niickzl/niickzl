@@ -3,7 +3,7 @@
 
 **Computer Science** @ **SFU** | **HKU** ('26 Fall)
 
-Concentration in **Artificial Intelligence & Information Systems**
+Concentration in **Artificial Intelligence** & **Information Systems**
 
 <a align ="center" href="https://www.linkedin.com/in/nickl24/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
