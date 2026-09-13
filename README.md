@@ -2,6 +2,7 @@
 🎯 "I want to build something that lasts."
 
 **Computer Science** @ **SFU** | **HKU** ('26 Fall)
+
 Concentration in **Artificial Intelligence & Information Systems**
 
 <a align ="center" href="https://www.linkedin.com/in/nickl24/">
